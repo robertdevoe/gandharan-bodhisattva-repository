@@ -1,0 +1,9 @@
+scripts/gandharan-bodhisattva-repository/
+├── README.md
+├── images/
+├── metadata/
+├── research-papers/
+├── scripts/
+│   ├── generate_metadata.py
+│   ├── rename_files.py
+├── LICENSE
